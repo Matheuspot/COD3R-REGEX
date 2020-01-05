@@ -10,3 +10,4 @@ const regex = /casa/g
 console.log(texto.match(regex))
 console.log(texto.match(/a b/))
 
+// teste
