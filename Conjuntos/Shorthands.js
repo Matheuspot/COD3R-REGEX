@@ -20,3 +20,4 @@ console.log(texto.match(/\s/g) )
 
 //  Espaço [^ \t\n\r\f]
 console.log(texto.match(/\S/g))
+
